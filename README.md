@@ -100,7 +100,7 @@ Preview all supported colors:
 colors
 ```
 <div>
-  <img width="501" height="158" alt="image" src="https://github.com/user-attachments/assets/c1077bf3-2ef6-421f-8150-f9268b8cdc45" />
+  <img width="490" height="91" alt="image" src="https://github.com/user-attachments/assets/b0be625f-eef7-4939-bdd2-b5e49c075292" />
 </div>
 
 ---
