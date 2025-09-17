@@ -1,4 +1,4 @@
-# op-CLI 
+# CLI 
 
 A simple, modular Python shell-like interface with support for users, customizable prompts, command handling, and color tweaks via ANSI escape codes and `prompt_toolkit`.
 
