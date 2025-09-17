@@ -261,7 +261,7 @@ Preview all supported colors:
 colors
 ```
 <div>
-  <img width="501" height="158" alt="image" src="https://github.com/user-attachments/assets/c1077bf3-2ef6-421f-8150-f9268b8cdc45" />
+  <img width="492" height="121" alt="image" src="https://github.com/user-attachments/assets/ed853b2c-0fd7-484c-b0c7-01c23b32e140" />
 </div>
 
 ---
