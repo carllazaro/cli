@@ -1,0 +1,4 @@
+TO-DO LIST:
+
+- folder creation tweaks
+- create tweaks.py, then place it in the bin directory 
