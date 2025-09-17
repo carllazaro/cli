@@ -19,8 +19,8 @@ pip install colorama prompt_toolkit
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/carllazaro/op-CLI.git
-cd op-CLI
+git clone https://github.com/carllazaro/cli.git
+cd cli
 ```
 
 ### Project Structure
